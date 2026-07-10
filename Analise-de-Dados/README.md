@@ -8,7 +8,4 @@ Projeto de análise exploratória de dados utilizando Python para organização,
 https://github.com/vivianavelino/analise-diversidade-dados
 
 
-# analise climaticas
 
-🔗 Repositório:
-https://github.com/vivianavelino/analise-diversidade-dados
