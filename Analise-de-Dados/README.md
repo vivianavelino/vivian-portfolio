@@ -36,5 +36,5 @@ Visualização dos resultados por meio de gráficos.
 Projeto de análise exploratória utilizando dados sintéticos para investigar padrões associados ao cancelamento de clientes. Foram realizadas etapas de limpeza e tratamento dos dados, EDA, segmentações, visualizações e geração de insights com Python, Pandas, Matplotlib e Seaborn.
 Dados: sintéticos • Tipo: projeto de estudo
 
-🔗 Repositório: 
+🔗 Repositório: https://github.com/vivianavelino/analise-cancelamento-seguros
 
