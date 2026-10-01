@@ -4,7 +4,7 @@ Projeto de análise exploratória utilizando dados do Google Trends para investi
 
 Dados: Google Trends • Tipo: projeto de estudo
 
-🔗 Repositório: [link do seu repo]
+🔗 Repositório: https://github.com/vivianavelino/Beauty-Trends
 
 
 
