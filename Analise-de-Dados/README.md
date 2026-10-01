@@ -1,3 +1,13 @@
+# Principia x Creamy x Sallve: Marcas Nativas Digitais no Skincare Brasileiro
+
+Projeto de análise exploratória utilizando dados do Google Trends para investigar o comportamento de busca por três marcas brasileiras de skincare — evolução do interesse ao longo do tempo, sazonalidade, tipo de intenção de busca e distribuição regional. Foram realizadas coleta e tratamento de dados, segmentações, visualizações e geração de insights com Python, Pandas e Matplotlib.
+
+Dados: Google Trends • Tipo: projeto de estudo
+
+🔗 Repositório: [link do seu repo]
+
+
+
 # Análise de Diversidade de Dados
 
 Projetos desenvolvidos para praticar análise, tratamento e visualização de dados.
